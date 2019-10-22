@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="screen_name" attr.type="string" for="node" id="d1"/>
+<key attr.name="name" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="950750435882733568">
+  <data key="d0">ETHBuenosAires</data>
+  <data key="d1">ethbuenosaires</data>
+</node>
+<node id="948587899024564225">
+  <data key="d0">Nomic Labs</data>
+  <data key="d1">NomicLabs</data>
+</node>
+<node id="722401302811144194">
+  <data key="d0">Orlane Moneuse</data>
+  <data key="d1">OrlaneMoneuse</data>
+</node>
+<node id="822215679726100480">
+  <data key="d0">President Trump</data>
+  <data key="d1">POTUS</data>
+</node>
+<node id="190277762">
+  <data key="d0">?g???í? ????????</data>
+  <data key="d1">agesteller</data>
+</node>
+<node id="127289989">
+  <data key="d0">Trail of Bits</data>
+  <data key="d1">trailofbits</data>
+</node>
+<node id="790627436832579584">
+  <data key="d0">Toshi</data>
+  <data key="d1">toshi</data>
+</node>
+<node id="929050108523679745">
+  <data key="d0">????????</data>
+  <data key="d1">CarrollQuigley1</data>
+</node>
+<node id="864126967515426816">
+  <data key="d0">ShareIT.io</data>
+  <data key="d1">shareit_io</data>
+</node>
+<node id="3391720966">
+  <data key="d0">#EnjoyDigitAll</data>
+  <data key="d1">EnjoyDigitAll</data>
+</node>
+<node id="818910970567344128">
+  <data key="d0">Vice President Mike Pence</data>
+  <data key="d1">VP</data>
+</node>
+<node id="299659914">
+  <data key="d0">Xamarin</data>
+  <data key="d1">xamarinhq</data>
+</node>
+<node id="18994444">
+  <data key="d0">IBM</data>
+  <data key="d1">IBM</data>
+</node>
+<node id="2523447146">
+  <data key="d0">WWoW</data>
+  <data key="d1">NotAWeaponOfWar</data>
+</node>
+<node id="6705042">
+  <data key="d0">ben goldacre</data>
+  <data key="d1">bengoldacre</data>
+</node>
+<node id="27955989">
+  <data key="d0">BNP Paribas Group</data>
+  <data key="d1">BNPParibas</data>
+</node>
+<node id="608523926">
+  <data key="d0">Peggy Johnson</data>
+  <data key="d1">PeggyJ</data>
+</node>
+<node id="212123929">
+  <data key="d0">Garnier Cyril</data>
+  <data key="d1">cygal01</data>
+</node>
+<node id="138966937">
+  <data key="d0">Eren Niazi</data>
+  <data key="d1">eren_niazi</data>
+</node>
+<node id="1449670430">
+  <data key="d0">Sandrine Delage ??</data>
+  <data key="d1">SANDDELA</data>
+</node>
+<node id="424552610">
+  <data key="d0">Q assist</data>
+  <data key="d1">CAtruthseeker</data>
+</node>
+<node id="14109218">
+  <data key="d0">Texas Democrat</data>
+  <data key="d1">TXDemocrat</data>
+</node>
+<node id="165933992">
+  <data key="d0">Microsoft France</data>
+  <data key="d1">microsoftfrance</data>
+</node>
+<node id="1229453994">
+  <data key="d0">Bertrand Cizeau</data>
+  <data key="d1">BertrandCizeau</data>
+</node>
+<node id="380617006">
+  <data key="d0">Ceph</data>
+  <data key="d1">Ceph</data>
+</node>
+<node id="1483245362">
+  <data key="d0">CentOS Project</data>
+  <data key="d1">CentOSProject</data>
+</node>
+<node id="2366194867">
+  <data key="d0">18F</data>
+  <data key="d1">18F</data>
+</node>
+<node id="377473204">
+  <data key="d0">TomeK TR</data>
+  <data key="d1">TomekTR</data>
+</node>
+<node id="163154809">
+  <data key="d0">bletchley punk</data>
+  <data key="d1">alicegoldfuss</data>
+</node>
+<node id="3227338044">
+  <data key="d0">Gatsby</data>
+  <data key="d1">gatsbyjs</data>
+</node>
+<node id="16717501">
+  <data key="d0">Élysée</data>
+  <data key="d1">Elysee</data>
+</node>
+<node id="2425151">
+  <data key="d0">Facebook</data>
+  <data key="d1">facebook</data>
+</node>
+<node id="3023811">
+  <data key="d0">NTEN</data>
+  <data key="d1">NTENorg</data>
+</node>
+<node id="1286116932">
+  <data key="d0">Red Hat Community</data>
+  <data key="d1">redhatopen</data>
+</node>
+<node id="17888709">
+  <data key="d0">Karol ?</data>
+  <data key="d1">karolcummins</data>
+</node>
+<node id="64482503">
+  <data key="d0">Code for America</data>
+  <data key="d1">codeforamerica</data>
+</node>
+<node id="2205307848">
+  <data key="d0">La French Tech</data>
+  <data key="d1">LaFrenchTech</data>
+</node>
+<node id="2980633674">
+  <data key="d0">GitHub Universe</data>
+  <data key="d1">githubuniverse</data>
+</node>
+<node id="4502885068">
+  <data key="d0">#VivaTech</data>
+  <data key="d1">VivaTech</data>
+</node>
+<node id="14780493">
+  <data key="d0">Lenny Zeltser</data>
+  <data key="d1">lennyzeltser</data>
+</node>
+<node id="3072905932">
+  <data key="d0">Thomas Cottinet</data>
+  <data key="d1">ThomasCOTTINET</data>
+</node>
+<node id="194563663">
+  <data key="d0">Rogue Warrior?????</data>
+  <data key="d1">Blondi1210</data>
+</node>
+<node id="384879060">
+  <data key="d0">Sandrine Latil</data>
+  <data key="d1">sandrinelatil</data>
+</node>
+<node id="25073877">
+  <data key="d0">Donald J. Trump</data>
+  <data key="d1">realDonaldTrump</data>
+</node>
+<node id="18873177">
+  <data key="d0">Shaun Dakin</data>
+  <data key="d1">DakinMarketing</data>
+</node>
+<node id="1976143068">
+  <data key="d0">Emmanuel Macron</data>
+  <data key="d1">EmmanuelMacron</data>
+</node>
+<node id="115065053">
+  <data key="d0">FlashTweet ??</data>
+  <data key="d1">FlashTweet</data>
+</node>
+<node id="167193309">
+  <data key="d0">NaNye ????</data>
+  <data key="d1">ken_wheeler</data>
+</node>
+<node id="2799996893">
+  <data key="d0">Mickaël OLLIER</data>
+  <data key="d1">Mickael_Ollier</data>
+</node>
+<node id="209309794">
+  <data key="d0">Allen Institute</data>
+  <data key="d1">AllenInstitute</data>
+</node>
+<node id="212325987">
+  <data key="d0">Aurélie JEAN, PhD</data>
+  <data key="d1">Aurelie_JEAN</data>
+</node>
+<node id="988310476173045760">
+  <data key="d0">CC.EXE</data>
+  <data key="d1">CC_CURATOR</data>
+</node>
+<node id="74286565">
+  <data key="d0">Microsoft</data>
+  <data key="d1">Microsoft</data>
+</node>
+<node id="21561061">
+  <data key="d0">Lagergren</data>
+  <data key="d1">lagergren</data>
+</node>
+<node id="975548535067348992">
+  <data key="d0">SpicyFiles</data>
+  <data key="d1">SpicyFiles</data>
+</node>
+<node id="16977387">
+  <data key="d0">François Gomez ?</data>
+  <data key="d1">FrancoisGomez_</data>
+</node>
+<node id="20571756">
+  <data key="d0">Satya Nadella</data>
+  <data key="d1">satyanadella</data>
+</node>
+<node id="3310089706">
+  <data key="d0">Faciligo</data>
+  <data key="d1">Faciligo</data>
+</node>
+<node id="557996780">
+  <data key="d0">Severine Lienard</data>
+  <data key="d1">SeverineLienard</data>
+</node>
+<node id="339061487">
+  <data key="d0">Pomp ?</data>
+  <data key="d1">APompliano</data>
+</node>
+<node id="867947619661881344">
+  <data key="d0">Dan Siddons</data>
+  <data key="d1">SiddonsDan</data>
+</node>
+<node id="1367531">
+  <data key="d0">Fox News</data>
+  <data key="d1">FoxNews</data>
+</node>
+<node id="17874544">
+  <data key="d0">Twitter Support</data>
+  <data key="d1">TwitterSupport</data>
+</node>
+<node id="538455539">
+  <data key="d0">Dale Younger Jr</data>
+  <data key="d1">JrJacktown</data>
+</node>
+<node id="63786611">
+  <data key="d0">Adobe</data>
+  <data key="d1">Adobe</data>
+</node>
+<node id="80528373">
+  <data key="d0">Mounir Mahjoubi</data>
+  <data key="d1">mounir</data>
+</node>
+<node id="533047414">
+  <data key="d0">SNCF Digital</data>
+  <data key="d1">SNCF_Digital</data>
+</node>
+<node id="3228602741">
+  <data key="d0">OpenLitterMap</data>
+  <data key="d1">OpenLitterMap</data>
+</node>
+<node id="15976697">
+  <data key="d0">Michelle Malkin</data>
+  <data key="d1">michellemalkin</data>
+</node>
+<node id="14706299">
+  <data key="d0">The Linux Foundation</data>
+  <data key="d1">linuxfoundation</data>
+</node>
+<node id="9737982">
+  <data key="d0">Magento</data>
+  <data key="d1">magento</data>
+</node>
+<node id="146423935">
+  <data key="d0">Jean-Pascal Tricoire</data>
+  <data key="d1">jptricoire</data>
+</node>
+<edge source="950750435882733568" target="790627436832579584"/>
+<edge source="950750435882733568" target="950750435882733568"/>
+<edge source="722401302811144194" target="3310089706"/>
+<edge source="722401302811144194" target="2799996893"/>
+<edge source="722401302811144194" target="212123929"/>
+<edge source="722401302811144194" target="533047414"/>
+<edge source="822215679726100480" target="538455539"/>
+<edge source="822215679726100480" target="194563663"/>
+<edge source="790627436832579584" target="790627436832579584"/>
+<edge source="929050108523679745" target="929050108523679745"/>
+<edge source="929050108523679745" target="194563663"/>
+<edge source="864126967515426816" target="864126967515426816"/>
+<edge source="864126967515426816" target="2523447146"/>
+<edge source="864126967515426816" target="608523926"/>
+<edge source="864126967515426816" target="4502885068"/>
+<edge source="3391720966" target="1229453994"/>
+<edge source="3391720966" target="115065053"/>
+<edge source="3391720966" target="27955989"/>
+<edge source="3391720966" target="1449670430"/>
+<edge source="818910970567344128" target="14109218"/>
+<edge source="2523447146" target="165933992"/>
+<edge source="2523447146" target="608523926"/>
+<edge source="2523447146" target="4502885068"/>
+<edge source="2523447146" target="2523447146"/>
+<edge source="2523447146" target="20571756"/>
+<edge source="27955989" target="212123929"/>
+<edge source="27955989" target="115065053"/>
+<edge source="27955989" target="1229453994"/>
+<edge source="27955989" target="1449670430"/>
+<edge source="27955989" target="27955989"/>
+<edge source="27955989" target="4502885068"/>
+<edge source="27955989" target="212325987"/>
+<edge source="212123929" target="3310089706"/>
+<edge source="212123929" target="2799996893"/>
+<edge source="138966937" target="339061487"/>
+<edge source="138966937" target="3227338044"/>
+<edge source="138966937" target="21561061"/>
+<edge source="138966937" target="14706299"/>
+<edge source="138966937" target="163154809"/>
+<edge source="138966937" target="2980633674"/>
+<edge source="138966937" target="167193309"/>
+<edge source="138966937" target="138966937"/>
+<edge source="1449670430" target="115065053"/>
+<edge source="1449670430" target="1229453994"/>
+<edge source="1449670430" target="1449670430"/>
+<edge source="1449670430" target="384879060"/>
+<edge source="1449670430" target="212325987"/>
+<edge source="424552610" target="25073877"/>
+<edge source="165933992" target="384879060"/>
+<edge source="165933992" target="3072905932"/>
+<edge source="1229453994" target="115065053"/>
+<edge source="1229453994" target="212325987"/>
+<edge source="380617006" target="1483245362"/>
+<edge source="380617006" target="380617006"/>
+<edge source="380617006" target="988310476173045760"/>
+<edge source="1483245362" target="1286116932"/>
+<edge source="1483245362" target="988310476173045760"/>
+<edge source="377473204" target="533047414"/>
+<edge source="377473204" target="377473204"/>
+<edge source="163154809" target="2980633674"/>
+<edge source="3227338044" target="3227338044"/>
+<edge source="2425151" target="538455539"/>
+<edge source="2425151" target="194563663"/>
+<edge source="3023811" target="18873177"/>
+<edge source="64482503" target="64482503"/>
+<edge source="2205307848" target="80528373"/>
+<edge source="4502885068" target="80528373"/>
+<edge source="3072905932" target="384879060"/>
+<edge source="3072905932" target="3072905932"/>
+<edge source="3072905932" target="74286565"/>
+<edge source="194563663" target="25073877"/>
+<edge source="194563663" target="17874544"/>
+<edge source="384879060" target="80528373"/>
+<edge source="384879060" target="115065053"/>
+<edge source="384879060" target="212325987"/>
+<edge source="384879060" target="1976143068"/>
+<edge source="25073877" target="538455539"/>
+<edge source="1976143068" target="74286565"/>
+<edge source="1976143068" target="20571756"/>
+<edge source="115065053" target="115065053"/>
+<edge source="115065053" target="212325987"/>
+<edge source="2799996893" target="3310089706"/>
+<edge source="2799996893" target="533047414"/>
+<edge source="212325987" target="212325987"/>
+<edge source="212325987" target="16977387"/>
+<edge source="988310476173045760" target="63786611"/>
+<edge source="988310476173045760" target="9737982"/>
+<edge source="988310476173045760" target="14706299"/>
+<edge source="74286565" target="20571756"/>
+<edge source="3310089706" target="3310089706"/>
+<edge source="3310089706" target="533047414"/>
+<edge source="557996780" target="557996780"/>
+<edge source="867947619661881344" target="538455539"/>
+<edge source="17874544" target="538455539"/>
+<edge source="538455539" target="15976697"/>
+<edge source="533047414" target="533047414"/>
+</graph></graphml>
