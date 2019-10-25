@@ -87,15 +87,15 @@
   <data key="d1">1</data>
   <data key="d2">1</data>
 </node>
-<node id="simplivllc">
-  <data key="d0">simplivllc</data>
-  <data key="d1">1</data>
-  <data key="d2">3</data>
-</node>
 <node id="maponi">
   <data key="d0">maponi</data>
   <data key="d1">2</data>
   <data key="d2">1</data>
+</node>
+<node id="simplivllc">
+  <data key="d0">simplivllc</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
 </node>
 <node id="MrBiscornus">
   <data key="d0">MrBiscornus</data>
@@ -147,7 +147,7 @@
 <node id="pydataamsterdam">
   <data key="d0">pydataamsterdam</data>
   <data key="d1">2</data>
-  <data key="d2">5</data>
+  <data key="d2">3</data>
 </node>
 <node id="petereisentraut">
   <data key="d0">petereisentraut</data>
@@ -262,10 +262,10 @@
   <data key="d1">1</data>
   <data key="d2">1</data>
 </node>
-<node id="lolanismen">
-  <data key="d0">lolanismen</data>
-  <data key="d1">2</data>
-  <data key="d2">2</data>
+<node id="Hackers_toolbox">
+  <data key="d0">Hackers_toolbox</data>
+  <data key="d1">15</data>
+  <data key="d2">44</data>
 </node>
 <node id="shapefiIe">
   <data key="d0">shapefiIe</data>
@@ -440,7 +440,7 @@
 <node id="java">
   <data key="d0">java</data>
   <data key="d1">2</data>
-  <data key="d2">37</data>
+  <data key="d2">35</data>
 </node>
 <node id="PythonMasterCA">
   <data key="d0">PythonMasterCA</data>
@@ -500,7 +500,7 @@
 <node id="hitchhooker">
   <data key="d0">hitchhooker</data>
   <data key="d1">1</data>
-  <data key="d2">4</data>
+  <data key="d2">2</data>
 </node>
 <node id="rnitsch">
   <data key="d0">rnitsch</data>
@@ -710,7 +710,7 @@
 <node id="Ceph">
   <data key="d0">Ceph</data>
   <data key="d1">1</data>
-  <data key="d2">15</data>
+  <data key="d2">13</data>
 </node>
 <node id="Crawzh">
   <data key="d0">Crawzh</data>
@@ -750,7 +750,7 @@
 <node id="EPAMSYSTEMS">
   <data key="d0">EPAMSYSTEMS</data>
   <data key="d1">1</data>
-  <data key="d2">4</data>
+  <data key="d2">2</data>
 </node>
 <node id="wr0">
   <data key="d0">wr0</data>
@@ -817,7 +817,7 @@
 <node id="DotNet2018">
   <data key="d0">DotNet2018</data>
   <data key="d1">2</data>
-  <data key="d2">14</data>
+  <data key="d2">12</data>
 </node>
 <node id="esthermac94">
   <data key="d0">esthermac94</data>
@@ -902,7 +902,7 @@
 <node id="XRobotsUK">
   <data key="d0">XRobotsUK</data>
   <data key="d1">6</data>
-  <data key="d2">25</data>
+  <data key="d2">23</data>
 </node>
 <node id="pvieira24">
   <data key="d0">pvieira24</data>
@@ -926,7 +926,7 @@
 <node id="GalaxyKate">
   <data key="d0">GalaxyKate</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="JOSS_TheOJ">
   <data key="d0">JOSS_TheOJ</data>
@@ -1156,7 +1156,7 @@
 <node id="vinceMeens">
   <data key="d0">vinceMeens</data>
   <data key="d1">1</data>
-  <data key="d2">3</data>
+  <data key="d2">1</data>
 </node>
 <node id="donnfelker">
   <data key="d0">donnfelker</data>
@@ -1989,7 +1989,7 @@
 <node id="ContinuousCast">
   <data key="d0">ContinuousCast</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="AuthorMiller09">
   <data key="d0">AuthorMiller09</data>
@@ -2212,7 +2212,7 @@
 <node id="ricare">
   <data key="d0">ricare</data>
   <data key="d1">41</data>
-  <data key="d2">23</data>
+  <data key="d2">21</data>
 </node>
 <node id="gpereyrairujo">
   <data key="d0">gpereyrairujo</data>
@@ -2435,7 +2435,7 @@
 <node id="ICSSP">
   <data key="d0">ICSSP</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="stevedesmond_ca">
   <data key="d0">stevedesmond_ca</data>
@@ -2662,7 +2662,7 @@
 <node id="iNPUTmice">
   <data key="d0">iNPUTmice</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="duplodude">
   <data key="d0">duplodude</data>
@@ -3240,7 +3240,7 @@
 <node id="samtuke">
   <data key="d0">samtuke</data>
   <data key="d1">1</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="krizis89">
   <data key="d0">krizis89</data>
@@ -3783,7 +3783,7 @@
 <node id="NumFOCUS">
   <data key="d0">NumFOCUS</data>
   <data key="d1">2</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="morayati">
   <data key="d0">morayati</data>
@@ -3894,7 +3894,7 @@
 <node id="coopTilleuls">
   <data key="d0">coopTilleuls</data>
   <data key="d1">3</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="TomJodH">
   <data key="d0">TomJodH</data>
@@ -4312,7 +4312,7 @@
 <node id="PacktPub">
   <data key="d0">PacktPub</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="wernerkeil">
   <data key="d0">wernerkeil</data>
@@ -4668,7 +4668,7 @@
 <node id="SpicyFiles">
   <data key="d0">SpicyFiles</data>
   <data key="d1">4</data>
-  <data key="d2">134</data>
+  <data key="d2">132</data>
 </node>
 <node id="BSkoobie">
   <data key="d0">BSkoobie</data>
@@ -5919,7 +5919,7 @@
 <node id="BlogNT">
   <data key="d0">BlogNT</data>
   <data key="d1">1</data>
-  <data key="d2">5</data>
+  <data key="d2">3</data>
 </node>
 <node id="markITwrite">
   <data key="d0">markITwrite</data>
@@ -6294,7 +6294,7 @@
 <node id="PyCaribbean">
   <data key="d0">PyCaribbean</data>
   <data key="d1">1</data>
-  <data key="d2">14</data>
+  <data key="d2">12</data>
 </node>
 <node id="JasonWilliamsNY">
   <data key="d0">JasonWilliamsNY</data>
@@ -6406,7 +6406,7 @@
 <node id="CHAOSSproj">
   <data key="d0">CHAOSSproj</data>
   <data key="d1">3</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="GuilouGuilouOTE">
   <data key="d0">GuilouGuilouOTE</data>
@@ -6764,7 +6764,7 @@
 <node id="ken_wheeler">
   <data key="d0">ken_wheeler</data>
   <data key="d1">1</data>
-  <data key="d2">36</data>
+  <data key="d2">34</data>
 </node>
 <node id="bcarancibia">
   <data key="d0">bcarancibia</data>
@@ -6975,7 +6975,7 @@
 <node id="RDSWEB">
   <data key="d0">RDSWEB</data>
   <data key="d1">30</data>
-  <data key="d2">60</data>
+  <data key="d2">58</data>
 </node>
 <node id="nawillyms">
   <data key="d0">nawillyms</data>
@@ -8096,7 +8096,7 @@
 <node id="codeforamerica">
   <data key="d0">codeforamerica</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="Purva_Kulkarni">
   <data key="d0">Purva_Kulkarni</data>
@@ -8121,7 +8121,7 @@
 <node id="TANGOmodel">
   <data key="d0">TANGOmodel</data>
   <data key="d1">1</data>
-  <data key="d2">3</data>
+  <data key="d2">1</data>
 </node>
 <node id="infination">
   <data key="d0">infination</data>
@@ -8731,7 +8731,7 @@
 <node id="dunglas">
   <data key="d0">dunglas</data>
   <data key="d1">2</data>
-  <data key="d2">26</data>
+  <data key="d2">24</data>
 </node>
 <node id="mikebrow">
   <data key="d0">mikebrow</data>
@@ -9194,12 +9194,12 @@
 <node id="vmbrasseur">
   <data key="d0">vmbrasseur</data>
   <data key="d1">2</data>
-  <data key="d2">5</data>
+  <data key="d2">3</data>
 </node>
 <node id="RepRapLtd">
   <data key="d0">RepRapLtd</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="wootmath">
   <data key="d0">wootmath</data>
@@ -9242,7 +9242,7 @@
 <node id="davkean">
   <data key="d0">davkean</data>
   <data key="d1">2</data>
-  <data key="d2">9</data>
+  <data key="d2">7</data>
 </node>
 <node id="EvenWeirderMove">
   <data key="d0">EvenWeirderMove</data>
@@ -9334,7 +9334,7 @@
 <node id="MindTrek_">
   <data key="d0">MindTrek_</data>
   <data key="d1">1</data>
-  <data key="d2">5</data>
+  <data key="d2">3</data>
 </node>
 <node id="sourceforge">
   <data key="d0">sourceforge</data>
@@ -9555,7 +9555,7 @@
 <node id="schestowitz">
   <data key="d0">schestowitz</data>
   <data key="d1">22</data>
-  <data key="d2">10</data>
+  <data key="d2">8</data>
 </node>
 <node id="RachelTobac">
   <data key="d0">RachelTobac</data>
@@ -10331,7 +10331,7 @@
 <node id="CodeDotGov">
   <data key="d0">CodeDotGov</data>
   <data key="d1">2</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="gregoriusrv">
   <data key="d0">gregoriusrv</data>
@@ -10358,10 +10358,10 @@
   <data key="d1">1</data>
   <data key="d2">1</data>
 </node>
-<node id="Hackers_toolbox">
-  <data key="d0">Hackers_toolbox</data>
-  <data key="d1">15</data>
-  <data key="d2">44</data>
+<node id="lolanismen">
+  <data key="d0">lolanismen</data>
+  <data key="d1">2</data>
+  <data key="d2">2</data>
 </node>
 <node id="Nosturi_">
   <data key="d0">Nosturi_</data>
@@ -10418,7 +10418,7 @@
 <node id="bloqboard">
   <data key="d0">bloqboard</data>
   <data key="d1">1</data>
-  <data key="d2">60</data>
+  <data key="d2">58</data>
 </node>
 <node id="trueknowledge2">
   <data key="d0">trueknowledge2</data>
@@ -10452,7 +10452,7 @@
 <node id="goinvo">
   <data key="d0">goinvo</data>
   <data key="d1">1</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="EssemHarris">
   <data key="d0">EssemHarris</data>
@@ -10910,7 +10910,7 @@
 <node id="dontusethiscode">
   <data key="d0">dontusethiscode</data>
   <data key="d1">1</data>
-  <data key="d2">9</data>
+  <data key="d2">7</data>
 </node>
 <node id="vishnudangi16">
   <data key="d0">vishnudangi16</data>
@@ -10975,7 +10975,7 @@
 <node id="CitizensFNDN">
   <data key="d0">CitizensFNDN</data>
   <data key="d1">1</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="mjtraves">
   <data key="d0">mjtraves</data>
@@ -11905,7 +11905,7 @@
 <node id="AricToler">
   <data key="d0">AricToler</data>
   <data key="d1">1</data>
-  <data key="d2">17</data>
+  <data key="d2">15</data>
 </node>
 <node id="Drogofilo">
   <data key="d0">Drogofilo</data>
@@ -11925,7 +11925,7 @@
 <node id="OneRelief">
   <data key="d0">OneRelief</data>
   <data key="d1">1</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="Tiana_Athriel">
   <data key="d0">Tiana_Athriel</data>
@@ -12014,7 +12014,7 @@
 <node id="RedHat">
   <data key="d0">RedHat</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="WalletConnect">
   <data key="d0">WalletConnect</data>
@@ -12174,7 +12174,7 @@
 <node id="msrconf">
   <data key="d0">msrconf</data>
   <data key="d1">9</data>
-  <data key="d2">20</data>
+  <data key="d2">18</data>
 </node>
 <node id="deckkh">
   <data key="d0">deckkh</data>
@@ -12349,7 +12349,7 @@
 <node id="Vindyne8">
   <data key="d0">Vindyne8</data>
   <data key="d1">2</data>
-  <data key="d2">9</data>
+  <data key="d2">7</data>
 </node>
 <node id="Mlsif">
   <data key="d0">Mlsif</data>
@@ -12547,7 +12547,7 @@
 <node id="OAforClimate">
   <data key="d0">OAforClimate</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="DamienERNST1">
   <data key="d0">DamienERNST1</data>
@@ -13017,7 +13017,7 @@
 <node id="marvelapp">
   <data key="d0">marvelapp</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="michaeld7">
   <data key="d0">michaeld7</data>
@@ -14242,7 +14242,7 @@
 <node id="Ravencoin">
   <data key="d0">Ravencoin</data>
   <data key="d1">1</data>
-  <data key="d2">23</data>
+  <data key="d2">21</data>
 </node>
 <node id="AdaptiveToolbox">
   <data key="d0">AdaptiveToolbox</data>
@@ -14414,7 +14414,7 @@
 <node id="FOSS4G_Oceania">
   <data key="d0">FOSS4G_Oceania</data>
   <data key="d1">1</data>
-  <data key="d2">15</data>
+  <data key="d2">13</data>
 </node>
 <node id="RonInDune">
   <data key="d0">RonInDune</data>
@@ -14454,7 +14454,7 @@
 <node id="BBCRD">
   <data key="d0">BBCRD</data>
   <data key="d1">1</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="dltmdwns7928">
   <data key="d0">dltmdwns7928</data>
@@ -14611,7 +14611,7 @@
 <node id="ianozsvald">
   <data key="d0">ianozsvald</data>
   <data key="d1">1</data>
-  <data key="d2">10</data>
+  <data key="d2">8</data>
 </node>
 <node id="Elao">
   <data key="d0">Elao</data>
@@ -14641,7 +14641,7 @@
 <node id="classygustav">
   <data key="d0">classygustav</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="michelcazenave">
   <data key="d0">michelcazenave</data>
@@ -14676,7 +14676,7 @@
 <node id="DivineOmega">
   <data key="d0">DivineOmega</data>
   <data key="d1">2</data>
-  <data key="d2">4</data>
+  <data key="d2">2</data>
 </node>
 <node id="slryit">
   <data key="d0">slryit</data>
@@ -14842,7 +14842,7 @@
 <node id="mariadb">
   <data key="d0">mariadb</data>
   <data key="d1">1</data>
-  <data key="d2">19</data>
+  <data key="d2">17</data>
 </node>
 <node id="DhritiShikhar">
   <data key="d0">DhritiShikhar</data>
@@ -14940,7 +14940,7 @@
 <node id="ivarcouderc">
   <data key="d0">ivarcouderc</data>
   <data key="d1">1</data>
-  <data key="d2">11</data>
+  <data key="d2">9</data>
 </node>
 <node id="froger_mcs">
   <data key="d0">froger_mcs</data>
@@ -15202,7 +15202,7 @@
 <node id="eren_niazi">
   <data key="d0">eren_niazi</data>
   <data key="d1">42</data>
-  <data key="d2">50</data>
+  <data key="d2">48</data>
 </node>
 <node id="Kilrot">
   <data key="d0">Kilrot</data>
@@ -15432,7 +15432,7 @@
 <node id="WindRiver">
   <data key="d0">WindRiver</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="ApacheOpennlp">
   <data key="d0">ApacheOpennlp</data>
@@ -15447,7 +15447,7 @@
 <node id="CodingFlux_">
   <data key="d0">CodingFlux_</data>
   <data key="d1">3</data>
-  <data key="d2">3</data>
+  <data key="d2">1</data>
 </node>
 <node id="StewMH">
   <data key="d0">StewMH</data>
@@ -15557,7 +15557,7 @@
 <node id="OpenSource_Uni">
   <data key="d0">OpenSource_Uni</data>
   <data key="d1">3</data>
-  <data key="d2">22</data>
+  <data key="d2">20</data>
 </node>
 <node id="gonzaloamendez">
   <data key="d0">gonzaloamendez</data>
@@ -15606,7 +15606,7 @@
 <node id="JobSnijders">
   <data key="d0">JobSnijders</data>
   <data key="d1">2</data>
-  <data key="d2">60</data>
+  <data key="d2">58</data>
 </node>
 <node id="NasoLuca">
   <data key="d0">NasoLuca</data>
@@ -16346,7 +16346,7 @@
 <node id="fossasia">
   <data key="d0">fossasia</data>
   <data key="d1">4</data>
-  <data key="d2">12</data>
+  <data key="d2">10</data>
 </node>
 <node id="RedHuntLabs">
   <data key="d0">RedHuntLabs</data>
@@ -16489,7 +16489,7 @@
 <node id="micko_mame">
   <data key="d0">micko_mame</data>
   <data key="d1">1</data>
-  <data key="d2">15</data>
+  <data key="d2">13</data>
 </node>
 <node id="TweetingOtusOwl">
   <data key="d0">TweetingOtusOwl</data>
@@ -16499,7 +16499,7 @@
 <node id="LarsHvam">
   <data key="d0">LarsHvam</data>
   <data key="d1">2</data>
-  <data key="d2">47</data>
+  <data key="d2">45</data>
 </node>
 <node id="DarrellWest1984">
   <data key="d0">DarrellWest1984</data>
@@ -16718,7 +16718,7 @@
 <node id="black_duck_sw">
   <data key="d0">black_duck_sw</data>
   <data key="d1">2</data>
-  <data key="d2">13</data>
+  <data key="d2">11</data>
 </node>
 <node id="whimsyniche">
   <data key="d0">whimsyniche</data>
@@ -16791,7 +16791,7 @@
 <node id="SwiftOnSecurity">
   <data key="d0">SwiftOnSecurity</data>
   <data key="d1">2</data>
-  <data key="d2">9</data>
+  <data key="d2">7</data>
 </node>
 <node id="_p0k_">
   <data key="d0">_p0k_</data>
@@ -17212,7 +17212,7 @@
 <node id="Leishman">
   <data key="d0">Leishman</data>
   <data key="d1">1</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="jayrosen_nyu">
   <data key="d0">jayrosen_nyu</data>
@@ -17328,7 +17328,7 @@
 <node id="left_pad">
   <data key="d0">left_pad</data>
   <data key="d1">3</data>
-  <data key="d2">20</data>
+  <data key="d2">18</data>
 </node>
 <node id="sciencedryad">
   <data key="d0">sciencedryad</data>
@@ -17569,7 +17569,7 @@
 <node id="PaaSDev">
   <data key="d0">PaaSDev</data>
   <data key="d1">4</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="ubuntu">
   <data key="d0">ubuntu</data>
@@ -17920,7 +17920,7 @@
 <node id="Balance_io">
   <data key="d0">Balance_io</data>
   <data key="d1">1</data>
-  <data key="d2">60</data>
+  <data key="d2">58</data>
 </node>
 <node id="petesiau">
   <data key="d0">petesiau</data>
@@ -18168,7 +18168,7 @@
 <node id="Coalission">
   <data key="d0">Coalission</data>
   <data key="d1">2</data>
-  <data key="d2">6</data>
+  <data key="d2">4</data>
 </node>
 <node id="avradio2">
   <data key="d0">avradio2</data>
@@ -18593,12 +18593,12 @@
 <node id="defcon">
   <data key="d0">defcon</data>
   <data key="d1">2</data>
-  <data key="d2">48</data>
+  <data key="d2">46</data>
 </node>
 <node id="mjasay">
   <data key="d0">mjasay</data>
   <data key="d1">2</data>
-  <data key="d2">14</data>
+  <data key="d2">12</data>
 </node>
 <node id="raultoran">
   <data key="d0">raultoran</data>
@@ -18797,7 +18797,7 @@
 <node id="SamueleBozzoni">
   <data key="d0">SamueleBozzoni</data>
   <data key="d1">2</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="043h68">
   <data key="d0">043h68</data>
@@ -19550,7 +19550,7 @@
 <node id="kohails">
   <data key="d0">kohails</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="khalil319">
   <data key="d0">khalil319</data>
@@ -19963,7 +19963,7 @@
 <node id="anthonypjshaw">
   <data key="d0">anthonypjshaw</data>
   <data key="d1">1</data>
-  <data key="d2">5</data>
+  <data key="d2">3</data>
 </node>
 <node id="pudwerkin">
   <data key="d0">pudwerkin</data>
@@ -20393,7 +20393,7 @@
 <node id="openeyes_oef">
   <data key="d0">openeyes_oef</data>
   <data key="d1">1</data>
-  <data key="d2">10</data>
+  <data key="d2">8</data>
 </node>
 <node id="MaralSabbagh">
   <data key="d0">MaralSabbagh</data>
@@ -20461,7 +20461,7 @@
 <node id="GiuseppeGuerin1">
   <data key="d0">GiuseppeGuerin1</data>
   <data key="d1">1</data>
-  <data key="d2">7</data>
+  <data key="d2">5</data>
 </node>
 <node id="systemguards">
   <data key="d0">systemguards</data>
@@ -20495,7 +20495,7 @@
 <node id="fabiopalomba3">
   <data key="d0">fabiopalomba3</data>
   <data key="d1">1</data>
-  <data key="d2">9</data>
+  <data key="d2">7</data>
 </node>
 <node id="antriksh_s">
   <data key="d0">antriksh_s</data>
@@ -20519,7 +20519,7 @@
 <node id="meetuphtmlsp">
   <data key="d0">meetuphtmlsp</data>
   <data key="d1">2</data>
-  <data key="d2">8</data>
+  <data key="d2">6</data>
 </node>
 <node id="TerryMcCracken">
   <data key="d0">TerryMcCracken</data>
@@ -20617,7 +20617,7 @@
 <node id="w_oliveiras">
   <data key="d0">w_oliveiras</data>
   <data key="d1">3</data>
-  <data key="d2">11</data>
+  <data key="d2">9</data>
 </node>
 <node id="4349486723">
   <data key="d2">2</data>
@@ -20723,10 +20723,10 @@
 <edge source="c0Bchik" target="SwiftOnSecurity"/>
 <edge source="phar1no" target="hanen105"/>
 <edge source="BenjaminTramm" target="iotatokennews"/>
+<edge source="maponi" target="Mybridge"/>
 <edge source="simplivllc" target="Ronald_vanLoon"/>
 <edge source="simplivllc" target="allensarkisyan"/>
 <edge source="simplivllc" target="kdnuggets"/>
-<edge source="maponi" target="Mybridge"/>
 <edge source="MrBiscornus" target="jlondiche"/>
 <edge source="rvosa" target="lteytelman"/>
 <edge source="rvosa" target="rahmat62251"/>
@@ -20753,7 +20753,6 @@
 <edge source="armeltayou" target="TheuliereMael"/>
 <edge source="pydataamsterdam" target="sciencedryad"/>
 <edge source="pydataamsterdam" target="dontusethiscode"/>
-<edge source="pydataamsterdam" target="pydataamsterdam"/>
 <edge source="pydataamsterdam" target="ianozsvald"/>
 <edge source="petereisentraut" target="postwait"/>
 <edge source="petereisentraut" target="kellabyte"/>
@@ -20802,8 +20801,49 @@
 <edge source="TheRegister" target="andrejg_au"/>
 <edge source="TheRegister" target="TrackerPayton"/>
 <edge source="dutch_osintguy" target="mrkoot"/>
-<edge source="lolanismen" target="gp_pulipaka"/>
-<edge source="lolanismen" target="AflaatunTapudo"/>
+<edge source="Hackers_toolbox" target="ivanPorMor"/>
+<edge source="Hackers_toolbox" target="Bambino0710"/>
+<edge source="Hackers_toolbox" target="gonzaloamendez"/>
+<edge source="Hackers_toolbox" target="JosephLykowski"/>
+<edge source="Hackers_toolbox" target="owlbelief"/>
+<edge source="Hackers_toolbox" target="RDSWEB"/>
+<edge source="Hackers_toolbox" target="abdullahalzakry"/>
+<edge source="Hackers_toolbox" target="ohiotechlibrary"/>
+<edge source="Hackers_toolbox" target="dysloke"/>
+<edge source="Hackers_toolbox" target="jayeshmthakur"/>
+<edge source="Hackers_toolbox" target="_plesna"/>
+<edge source="Hackers_toolbox" target="decus247"/>
+<edge source="Hackers_toolbox" target="_ShaunM"/>
+<edge source="Hackers_toolbox" target="DDO53R_420"/>
+<edge source="Hackers_toolbox" target="TER_XL"/>
+<edge source="Hackers_toolbox" target="m1a1n1s9o7u8r"/>
+<edge source="Hackers_toolbox" target="anonakronohio"/>
+<edge source="Hackers_toolbox" target="akronohioanon1"/>
+<edge source="Hackers_toolbox" target="akronohioanon2"/>
+<edge source="Hackers_toolbox" target="misfitsec"/>
+<edge source="Hackers_toolbox" target="gilmarwsr"/>
+<edge source="Hackers_toolbox" target="eren_niazi"/>
+<edge source="Hackers_toolbox" target="Autumn4EE"/>
+<edge source="Hackers_toolbox" target="aljueed"/>
+<edge source="Hackers_toolbox" target="NamishSir"/>
+<edge source="Hackers_toolbox" target="darkcyberpunk"/>
+<edge source="Hackers_toolbox" target="FireH7nter"/>
+<edge source="Hackers_toolbox" target="clairvoyant_the"/>
+<edge source="Hackers_toolbox" target="varosecurity"/>
+<edge source="Hackers_toolbox" target="chitti3167"/>
+<edge source="Hackers_toolbox" target="douglasmun"/>
+<edge source="Hackers_toolbox" target="D0wnThemAll"/>
+<edge source="Hackers_toolbox" target="BramHermanus"/>
+<edge source="Hackers_toolbox" target="Mesb23"/>
+<edge source="Hackers_toolbox" target="jorgemvila"/>
+<edge source="Hackers_toolbox" target="cyberpunkNET"/>
+<edge source="Hackers_toolbox" target="JAX_MASTERS"/>
+<edge source="Hackers_toolbox" target="simonroses"/>
+<edge source="Hackers_toolbox" target="JhetoX"/>
+<edge source="Hackers_toolbox" target="ekamioka"/>
+<edge source="Hackers_toolbox" target="sensitive_data"/>
+<edge source="Hackers_toolbox" target="KeKHermanus"/>
+<edge source="Hackers_toolbox" target="Wh1t3Ang3l_SK"/>
 <edge source="shapefiIe" target="rory_h_r"/>
 <edge source="shapefiIe" target="GIS_Sharer"/>
 <edge source="007Hamoud" target="TheHackersNews"/>
@@ -20832,7 +20872,6 @@
 <edge source="hobru" target="LarsHvam"/>
 <edge source="hobru" target="Microsoft"/>
 <edge source="hobru" target="github"/>
-<edge source="aljueed" target="Hackers_toolbox"/>
 <edge source="fredrski" target="UrbanDemog"/>
 <edge source="fredrski" target="heshan_cheri"/>
 <edge source="debiguity" target="juliendubois"/>
@@ -20874,7 +20913,6 @@
 <edge source="merapps" target="YouTube"/>
 <edge source="sunny438" target="TheHackersNews"/>
 <edge source="JhetoX" target="TheHackersNews"/>
-<edge source="JhetoX" target="Hackers_toolbox"/>
 <edge source="ignotus_mago" target="dgrigar"/>
 <edge source="security_prince" target="binitamshah"/>
 <edge source="SoyVA3" target="hanen105"/>
@@ -20898,7 +20936,6 @@
 <edge source="java" target="java_tec"/>
 <edge source="java" target="BriemChris"/>
 <edge source="java" target="arichduvet"/>
-<edge source="java" target="java"/>
 <edge source="java" target="DaniloMendes012"/>
 <edge source="java" target="kjjaeger"/>
 <edge source="java" target="elderjava"/>
@@ -20932,7 +20969,6 @@
 <edge source="LaureKassem" target="esthermac94"/>
 <edge source="hitchhooker" target="altsul"/>
 <edge source="hitchhooker" target="APompliano"/>
-<edge source="hitchhooker" target="hitchhooker"/>
 <edge source="rnitsch" target="LinuxDotCom"/>
 <edge source="rnitsch" target="IBM"/>
 <edge source="Coinosphere" target="antiprosynth"/>
@@ -20943,14 +20979,12 @@
 <edge source="figitaki" target="DharmaProtocol"/>
 <edge source="figitaki" target="bloqboard"/>
 <edge source="TER_XL" target="reach2ratan"/>
-<edge source="TER_XL" target="Hackers_toolbox"/>
 <edge source="selcuke" target="ricburton"/>
 <edge source="selcuke" target="Balance_io"/>
 <edge source="selcuke" target="Bloom"/>
 <edge source="selcuke" target="DharmaProtocol"/>
 <edge source="selcuke" target="bloqboard"/>
 <edge source="amuir_netecol" target="dgrigar"/>
-<edge source="gilmarwsr" target="Hackers_toolbox"/>
 <edge source="DevinBoyle55" target="APompliano"/>
 <edge source="DabiddoKun" target="vuejsdevelopers"/>
 <edge source="DabiddoKun" target="vuejsfeed"/>
@@ -21058,7 +21092,6 @@
 <edge source="Ceph" target="CERN"/>
 <edge source="Ceph" target="CentOSProject"/>
 <edge source="Ceph" target="RDOcommunity"/>
-<edge source="Ceph" target="Ceph"/>
 <edge source="Ceph" target="fedora"/>
 <edge source="Ceph" target="59911425"/>
 <edge source="Ceph" target="ArneWiebalck"/>
@@ -21085,7 +21118,6 @@
 <edge source="SamuelDjinni" target="binitamshah"/>
 <edge source="EPAMSYSTEMS" target="pir8aye"/>
 <edge source="EPAMSYSTEMS" target="xen_org"/>
-<edge source="EPAMSYSTEMS" target="EPAMSYSTEMS"/>
 <edge source="wr0" target="defcon"/>
 <edge source="evylyons" target="vuejsdevelopers"/>
 <edge source="246939962" target="hyc_symas"/>
@@ -21119,7 +21151,6 @@
 <edge source="DotNet2018" target="jrsrubio"/>
 <edge source="DotNet2018" target="jcarloslr10"/>
 <edge source="DotNet2018" target="Azure"/>
-<edge source="DotNet2018" target="DotNet2018"/>
 <edge source="DotNet2018" target="ibonilm"/>
 <edge source="DotNet2018" target="_unaizc_"/>
 <edge source="DotNet2018" target="PlainConceptsEN"/>
@@ -21285,13 +21316,11 @@
 <edge source="XRobotsUK" target="diggadugger"/>
 <edge source="XRobotsUK" target="SOSVnews"/>
 <edge source="XRobotsUK" target="tamarintech"/>
-<edge source="XRobotsUK" target="XRobotsUK"/>
 <edge source="XRobotsUK" target="_Gooofy_"/>
 <edge source="pvieira24" target="antiprosynth"/>
 <edge source="0x10101010" target="TheHackersNews"/>
 <edge source="AngelBarajas_13" target="OpenElectronics"/>
 <edge source="perpetuocambio" target="LSELabs"/>
-<edge source="GalaxyKate" target="GalaxyKate"/>
 <edge source="GalaxyKate" target="plushapo"/>
 <edge source="GalaxyKate" target="MrHodgepants"/>
 <edge source="GalaxyKate" target="jcukier"/>
@@ -21374,7 +21403,6 @@
 <edge source="DevlinBlake" target="APompliano"/>
 <edge source="MSB_Blue" target="AI__TECH"/>
 <edge source="Steeler1313" target="gp_pulipaka"/>
-<edge source="vinceMeens" target="vinceMeens"/>
 <edge source="vinceMeens" target="ahmad78714229"/>
 <edge source="donnfelker" target="bendhalpern"/>
 <edge source="mehrdad_2000" target="TheHackersNews"/>
@@ -21479,7 +21507,6 @@
 <edge source="muaznotiar" target="odsc"/>
 <edge source="itzme2" target="SpicyFiles"/>
 <edge source="CarlosE_Lozada" target="linuxfoundation"/>
-<edge source="jorgemvila" target="Hackers_toolbox"/>
 <edge source="prakash13t" target="LarsHvam"/>
 <edge source="prakash13t" target="Microsoft"/>
 <edge source="prakash13t" target="github"/>
@@ -21728,7 +21755,6 @@
 <edge source="ContinuousCast" target="heavybit"/>
 <edge source="ContinuousCast" target="edith_h"/>
 <edge source="ContinuousCast" target="Microsoft"/>
-<edge source="ContinuousCast" target="ContinuousCast"/>
 <edge source="ContinuousCast" target="martinwoodward"/>
 <edge source="AuthorMiller09" target="BGHeaven"/>
 <edge source="AuthorMiller09" target="MichaelAvenatti"/>
@@ -21807,7 +21833,6 @@
 <edge source="ricare" target="stremio"/>
 <edge source="ricare" target="RedbridgeLibs"/>
 <edge source="ricare" target="EFF"/>
-<edge source="ricare" target="ricare"/>
 <edge source="ricare" target="Blue_Circle_"/>
 <edge source="ricare" target="MetaCert"/>
 <edge source="ricare" target="gcluley"/>
@@ -21890,7 +21915,6 @@
 <edge source="ebassi" target="migueldeicaza"/>
 <edge source="stacyojackson" target="YottaDataTech"/>
 <edge source="Jippi" target="Nick_Craver"/>
-<edge source="ICSSP" target="ICSSP"/>
 <edge source="ICSSP" target="Ghofranieee"/>
 <edge source="ICSSP" target="falk_howar"/>
 <edge source="ICSSP" target="SoftEngResGrp"/>
@@ -21995,7 +22019,6 @@
 <edge source="iNPUTmice" target="NotThatRishi"/>
 <edge source="iNPUTmice" target="gsoc"/>
 <edge source="iNPUTmice" target="xmpp"/>
-<edge source="iNPUTmice" target="iNPUTmice"/>
 <edge source="duplodude" target="iotatokennews"/>
 <edge source="beamop_" target="TheHackersNews"/>
 <edge source="a34lxc" target="TheHackersNews"/>
@@ -22311,7 +22334,6 @@
 <edge source="m1matas" target="SwiftOnSecurity"/>
 <edge source="HITSEC" target="binitamshah"/>
 <edge source="samtuke" target="Fossbckstg"/>
-<edge source="samtuke" target="samtuke"/>
 <edge source="samtuke" target="jospoortvliet"/>
 <edge source="samtuke" target="nrmueller"/>
 <edge source="samtuke" target="deneb_alpha"/>
@@ -22527,7 +22549,6 @@
 <edge source="hrirkslab" target="BaiduResearch"/>
 <edge source="hrirkslab" target="2382923779"/>
 <edge source="CandidaOrtega16" target="NativeScript"/>
-<edge source="ohiotechlibrary" target="Hackers_toolbox"/>
 <edge source="jonatoni" target="JenInnovate"/>
 <edge source="jonatoni" target="CERN"/>
 <edge source="jonatoni" target="CentOSProject"/>
@@ -22556,7 +22577,6 @@
 <edge source="bkeepers" target="Ganapativs"/>
 <edge source="bkeepers" target="mistydemeo"/>
 <edge source="TheEyeofCrypto1" target="APompliano"/>
-<edge source="akronohioanon1" target="Hackers_toolbox"/>
 <edge source="akronohioanon1" target="sourceforge"/>
 <edge source="jperlow" target="eren_niazi"/>
 <edge source="unamcert" target="TheHackersNews"/>
@@ -22566,7 +22586,6 @@
 <edge source="matarturo" target="synopsys"/>
 <edge source="matarturo" target="Desfufor"/>
 <edge source="matarturo" target="sourceforge"/>
-<edge source="NumFOCUS" target="NumFOCUS"/>
 <edge source="NumFOCUS" target="glouppe"/>
 <edge source="NumFOCUS" target="EricSchles"/>
 <edge source="NumFOCUS" target="PythonKanpur"/>
@@ -22616,7 +22635,6 @@
 <edge source="ckranj" target="xamarinhq"/>
 <edge source="coopTilleuls" target="dunglas"/>
 <edge source="coopTilleuls" target="mmarchois"/>
-<edge source="coopTilleuls" target="coopTilleuls"/>
 <edge source="coopTilleuls" target="Mickael37A"/>
 <edge source="coopTilleuls" target="Steftweet78130"/>
 <edge source="coopTilleuls" target="FerriereFlorian"/>
@@ -22821,7 +22839,6 @@
 <edge source="_nzamani" target="github"/>
 <edge source="porkkanafarmari" target="binitamshah"/>
 <edge source="WeegeesMom" target="SpicyFiles"/>
-<edge source="BramHermanus" target="Hackers_toolbox"/>
 <edge source="eu_echo" target="OneRelief"/>
 <edge source="eu_echo" target="bot_innovation"/>
 <edge source="eu_echo" target="linux_en"/>
@@ -22874,7 +22891,6 @@
 <edge source="EthicHub" target="gabrielalc2"/>
 <edge source="EthicHub" target="CC_CURATOR"/>
 <edge source="W40K_CHACAL" target="binitamshah"/>
-<edge source="ekamioka" target="Hackers_toolbox"/>
 <edge source="Th33l3phant" target="binitamshah"/>
 <edge source="MauricioFonsecB" target="NativeScript"/>
 <edge source="Blockchainer91" target="iotatokennews"/>
@@ -22914,7 +22930,6 @@
 <edge source="gyurkoand" target="EHackerNews"/>
 <edge source="will_price_94" target="glouppe"/>
 <edge source="EmokeZ" target="NativeScript"/>
-<edge source="PacktPub" target="PacktPub"/>
 <edge source="PacktPub" target="gregoriusrv"/>
 <edge source="PacktPub" target="laminahmed11"/>
 <edge source="wernerkeil" target="lagergren"/>
@@ -23262,7 +23277,6 @@
 <edge source="Djamery" target="MichaelAvenatti"/>
 <edge source="adil_w3nomad" target="APompliano"/>
 <edge source="bSpence7337" target="HanseSecure"/>
-<edge source="douglasmun" target="Hackers_toolbox"/>
 <edge source="23242773" target="PaaSDev"/>
 <edge source="metacosm" target="lagergren"/>
 <edge source="zemuldo" target="Ronald_vanLoon"/>
@@ -23360,7 +23374,6 @@
 <edge source="cleverbeard" target="rikkiends"/>
 <edge source="cleverbeard" target="opensourceway"/>
 <edge source="cleverbeard" target="JenWike"/>
-<edge source="jayeshmthakur" target="Hackers_toolbox"/>
 <edge source="1160939694" target="FreelancersShit"/>
 <edge source="xavieriturralde" target="ricburton"/>
 <edge source="xavieriturralde" target="Balance_io"/>
@@ -23431,7 +23444,6 @@
 <edge source="joomladesigns" target="1stwebdesigner"/>
 <edge source="aperturadesigns" target="davekoelmeyer"/>
 <edge source="aperturadesigns" target="JasperSiepkes"/>
-<edge source="_plesna" target="Hackers_toolbox"/>
 <edge source="_plesna" target="TheHackersNews"/>
 <edge source="BlackVikingPro" target="TheHackersNews"/>
 <edge source="vivek0460" target="TheHackersNews"/>
@@ -23453,7 +23465,6 @@
 <edge source="lijiangsheng1" target="YouTube"/>
 <edge source="kodizant" target="odsc"/>
 <edge source="ivanPorMor" target="txambe"/>
-<edge source="ivanPorMor" target="Hackers_toolbox"/>
 <edge source="AgusSup39011241" target="PLOSChannels"/>
 <edge source="Tyler_Stoltzfus" target="APompliano"/>
 <edge source="SunnyBlondie" target="RDSWEB"/>
@@ -23494,7 +23505,6 @@
 <edge source="bbrandonbbyy" target="APompliano"/>
 <edge source="mathewspurathai" target="xamarinhq"/>
 <edge source="RDickinson" target="ken_wheeler"/>
-<edge source="BlogNT" target="BlogNT"/>
 <edge source="BlogNT" target="laVeilleTechno"/>
 <edge source="BlogNT" target="magikstar29"/>
 <edge source="markITwrite" target="filehippo"/>
@@ -23619,7 +23629,6 @@
 <edge source="1stContribution" target="BenLesh"/>
 <edge source="1stContribution" target="danielsvpeter"/>
 <edge source="1stContribution" target="ndhykz"/>
-<edge source="PyCaribbean" target="PyCaribbean"/>
 <edge source="PyCaribbean" target="PyConNA"/>
 <edge source="PyCaribbean" target="pyconza"/>
 <edge source="PyCaribbean" target="pyconnigeria"/>
@@ -23662,7 +23671,6 @@
 <edge source="TeamZefo" target="PrithvirajDey7"/>
 <edge source="CHAOSSproj" target="opensourceway"/>
 <edge source="CHAOSSproj" target="redhatopen"/>
-<edge source="CHAOSSproj" target="CHAOSSproj"/>
 <edge source="CHAOSSproj" target="uoduckswtd"/>
 <edge source="GuilouGuilouOTE" target="ricburton"/>
 <edge source="MCryptos" target="APompliano"/>
@@ -23686,7 +23694,6 @@
 <edge source="andrewdwilliams" target="binitamshah"/>
 <edge source="andrewdwilliams" target="JenWike"/>
 <edge source="ISDI_usa" target="magento"/>
-<edge source="Wh1t3Ang3l_SK" target="Hackers_toolbox"/>
 <edge source="BemyappRomania" target="CC_CURATOR"/>
 <edge source="vgonmar" target="Omicrono"/>
 <edge source="ahmad78714229" target="PLOSChannels"/>
@@ -23839,11 +23846,9 @@
 <edge source="ken_wheeler" target="amdsouza92"/>
 <edge source="ken_wheeler" target="databaseculture"/>
 <edge source="ken_wheeler" target="CodeOnTheBeach"/>
-<edge source="ken_wheeler" target="ken_wheeler"/>
 <edge source="ken_wheeler" target="FormidableLabs"/>
 <edge source="bcarancibia" target="rasbt"/>
 <edge source="bcarancibia" target="vorpalsmith"/>
-<edge source="simonroses" target="Hackers_toolbox"/>
 <edge source="simonroses" target="defcon"/>
 <edge source="Thaolia" target="TheHackersNews"/>
 <edge source="Bronk122" target="OpenSource_Uni"/>
@@ -23957,7 +23962,6 @@
 <edge source="rtql8d" target="friendlyMikhail"/>
 <edge source="GARY_J_poker" target="coincrunchio"/>
 <edge source="GARY_J_poker" target="Ravencoin"/>
-<edge source="decus247" target="Hackers_toolbox"/>
 <edge source="ID_adgm" target="mariadb"/>
 <edge source="frontendtweets" target="gp_pulipaka"/>
 <edge source="getshifter" target="ServerlessFan"/>
@@ -23996,10 +24000,8 @@
 <edge source="RDSWEB" target="123ShowBiz"/>
 <edge source="RDSWEB" target="RLCMIA"/>
 <edge source="RDSWEB" target="ewbarnard"/>
-<edge source="RDSWEB" target="RDSWEB"/>
 <edge source="RDSWEB" target="AdamGrandt"/>
 <edge source="RDSWEB" target="Ncdsun"/>
-<edge source="RDSWEB" target="Hackers_toolbox"/>
 <edge source="RDSWEB" target="willybilliams2"/>
 <edge source="RDSWEB" target="MacommsKgomo"/>
 <edge source="RDSWEB" target="CyberDomain"/>
@@ -24124,7 +24126,6 @@
 <edge source="SQLDeve" target="csharp_company"/>
 <edge source="The_River_2" target="Vindyne8"/>
 <edge source="YerocJr" target="lagergren"/>
-<edge source="JAX_MASTERS" target="Hackers_toolbox"/>
 <edge source="Spyder_IDE" target="PythonKanpur"/>
 <edge source="Spyder_IDE" target="AkashDixit_"/>
 <edge source="RoboEmpire" target="YouTube"/>
@@ -24340,13 +24341,11 @@
 <edge source="_Cyber_Punk_" target="cyberpunkNET"/>
 <edge source="codeforamerica" target="CodeDotGov"/>
 <edge source="codeforamerica" target="Oakland"/>
-<edge source="codeforamerica" target="codeforamerica"/>
 <edge source="Purva_Kulkarni" target="diehlpk"/>
 <edge source="Thais_VNunes" target="w_oliveiras"/>
 <edge source="SeleniumReal" target="LinuxDotCom"/>
 <edge source="SeleniumReal" target="sourceforge"/>
 <edge source="way4ne" target="lztni"/>
-<edge source="TANGOmodel" target="TANGOmodel"/>
 <edge source="TANGOmodel" target="bot_innovation"/>
 <edge source="infination" target="TheHackersNews"/>
 <edge source="horsecrazybean" target="BGHeaven"/>
@@ -24388,7 +24387,6 @@
 <edge source="IsotomicIT" target="InfosecEdu"/>
 <edge source="sensitive_data" target="CompTechReview"/>
 <edge source="sensitive_data" target="mariadb"/>
-<edge source="sensitive_data" target="Hackers_toolbox"/>
 <edge source="tOrbert_93" target="redhatopen"/>
 <edge source="Cyber4Rat" target="reach2ratan"/>
 <edge source="encrypto99" target="TheHackersNews"/>
@@ -24510,7 +24508,6 @@
 <edge source="moonsoonman" target="Balance_io"/>
 <edge source="moonsoonman" target="DharmaProtocol"/>
 <edge source="moonsoonman" target="bloqboard"/>
-<edge source="akronohioanon2" target="Hackers_toolbox"/>
 <edge source="akronohioanon2" target="sourceforge"/>
 <edge source="awlnx" target="JobSnijders"/>
 <edge source="skotperez" target="urbanohumano"/>
@@ -24532,7 +24529,6 @@
 <edge source="dunglas" target="JasonMarto"/>
 <edge source="dunglas" target="HelloKinedie"/>
 <edge source="dunglas" target="Elao"/>
-<edge source="dunglas" target="dunglas"/>
 <edge source="dunglas" target="nicolasgrekas"/>
 <edge source="dunglas" target="jlondiche"/>
 <edge source="dunglas" target="benji__07"/>
@@ -24574,6 +24570,7 @@
 <edge source="CAinc" target="Rosenchild"/>
 <edge source="AflaatunTapudo" target="MellowDipti"/>
 <edge source="AflaatunTapudo" target="_30days30sites"/>
+<edge source="AflaatunTapudo" target="lolanismen"/>
 <edge source="AflaatunTapudo" target="php_lea"/>
 <edge source="AflaatunTapudo" target="python_le"/>
 <edge source="duesenklipper" target="lagergren"/>
@@ -24587,7 +24584,6 @@
 <edge source="iblancasa" target="jancborchardt"/>
 <edge source="tarentum" target="Hakin9"/>
 <edge source="MossBliss" target="sourceforge"/>
-<edge source="owlbelief" target="Hackers_toolbox"/>
 <edge source="owlbelief" target="KitPloit"/>
 <edge source="owlbelief" target="TheHackersNews"/>
 <edge source="owlbelief" target="Hakin9"/>
@@ -24703,10 +24699,8 @@
 <edge source="gsoc" target="fossasia"/>
 <edge source="cyclingfisch" target="LarsHvam"/>
 <edge source="cyclingfisch" target="github"/>
-<edge source="vmbrasseur" target="vmbrasseur"/>
 <edge source="vmbrasseur" target="CC_CURATOR"/>
 <edge source="vmbrasseur" target="oscon"/>
-<edge source="RepRapLtd" target="RepRapLtd"/>
 <edge source="RepRapLtd" target="2plus2equal27"/>
 <edge source="RepRapLtd" target="Obijuan_cube"/>
 <edge source="RepRapLtd" target="kojote"/>
@@ -24726,7 +24720,6 @@
 <edge source="Adobe" target="dbgrinberg"/>
 <edge source="Adobe" target="cloudsa"/>
 <edge source="davkean" target="jlaban"/>
-<edge source="davkean" target="davkean"/>
 <edge source="davkean" target="garfbradaz"/>
 <edge source="davkean" target="mairacw"/>
 <edge source="davkean" target="paulgbrown"/>
@@ -24750,7 +24743,6 @@
 <edge source="dr4nking" target="binitamshah"/>
 <edge source="MindTrek_" target="oskari_org"/>
 <edge source="MindTrek_" target="cossfi"/>
-<edge source="MindTrek_" target="MindTrek_"/>
 <edge source="sourceforge" target="CC_CURATOR"/>
 <edge source="sourceforge" target="mikedk"/>
 <edge source="sourceforge" target="anonakronohio"/>
@@ -24811,7 +24803,6 @@
 <edge source="NWaloly" target="NativeScript"/>
 <edge source="openSUSE" target="YouTube"/>
 <edge source="openSUSE" target="cho2MLHC"/>
-<edge source="schestowitz" target="schestowitz"/>
 <edge source="schestowitz" target="Rick4312"/>
 <edge source="schestowitz" target="dvdeijk"/>
 <edge source="RachelTobac" target="KAS_stoner"/>
@@ -24840,7 +24831,6 @@
 <edge source="jlcanovas" target="markkrake"/>
 <edge source="jlcanovas" target="thehabdash"/>
 <edge source="clairvoyant_the" target="TheHackersNews"/>
-<edge source="clairvoyant_the" target="Hackers_toolbox"/>
 <edge source="Dr4s1l" target="binitamshah"/>
 <edge source="ibrahimatlinux" target="vgrade"/>
 <edge source="ibrahimatlinux" target="cra"/>
@@ -24878,7 +24868,6 @@
 <edge source="antiprosynth" target="ricburton"/>
 <edge source="antiprosynth" target="0xProject"/>
 <edge source="lipmanb" target="vuejsdevelopers"/>
-<edge source="chitti3167" target="Hackers_toolbox"/>
 <edge source="louismareschi" target="ricburton"/>
 <edge source="louismareschi" target="Balance_io"/>
 <edge source="louismareschi" target="DharmaProtocol"/>
@@ -24905,7 +24894,6 @@
 <edge source="bendhalpern" target="_david0w"/>
 <edge source="bendhalpern" target="sarah_chima"/>
 <edge source="bendhalpern" target="couth__"/>
-<edge source="KeKHermanus" target="Hackers_toolbox"/>
 <edge source="zeithq" target="bitandbang"/>
 <edge source="zeithq" target="left_pad"/>
 <edge source="zeithq" target="babeljs"/>
@@ -24926,7 +24914,6 @@
 <edge source="lordman1982" target="Gasgas4Ggyy"/>
 <edge source="lordman1982" target="massimozanchi"/>
 <edge source="Wellan129" target="TheHackersNews"/>
-<edge source="Autumn4EE" target="Hackers_toolbox"/>
 <edge source="edskoudis" target="KAS_stoner"/>
 <edge source="the_ins_ru" target="wsscherk"/>
 <edge source="the_ins_ru" target="solhog"/>
@@ -25062,29 +25049,11 @@
 <edge source="TheSCLGroup" target="DykstraDame"/>
 <edge source="TheSCLGroup" target="BinderFaith1"/>
 <edge source="CodeDotGov" target="Oakland"/>
-<edge source="CodeDotGov" target="CodeDotGov"/>
 <edge source="CodeDotGov" target="skfroi"/>
 <edge source="cyberpunkNET" target="NativeScript"/>
-<edge source="cyberpunkNET" target="Hackers_toolbox"/>
 <edge source="Livadov" target="KitPloit"/>
 <edge source="SwissEtage" target="iotatokennews"/>
-<edge source="Hackers_toolbox" target="Bambino0710"/>
-<edge source="Hackers_toolbox" target="gonzaloamendez"/>
-<edge source="Hackers_toolbox" target="JosephLykowski"/>
-<edge source="Hackers_toolbox" target="abdullahalzakry"/>
-<edge source="Hackers_toolbox" target="dysloke"/>
-<edge source="Hackers_toolbox" target="_ShaunM"/>
-<edge source="Hackers_toolbox" target="DDO53R_420"/>
-<edge source="Hackers_toolbox" target="m1a1n1s9o7u8r"/>
-<edge source="Hackers_toolbox" target="anonakronohio"/>
-<edge source="Hackers_toolbox" target="misfitsec"/>
-<edge source="Hackers_toolbox" target="eren_niazi"/>
-<edge source="Hackers_toolbox" target="NamishSir"/>
-<edge source="Hackers_toolbox" target="darkcyberpunk"/>
-<edge source="Hackers_toolbox" target="FireH7nter"/>
-<edge source="Hackers_toolbox" target="varosecurity"/>
-<edge source="Hackers_toolbox" target="D0wnThemAll"/>
-<edge source="Hackers_toolbox" target="Mesb23"/>
+<edge source="lolanismen" target="gp_pulipaka"/>
 <edge source="Nosturi_" target="manelrainers"/>
 <edge source="Nosturi_" target="Dggonzalez2015"/>
 <edge source="Nosturi_" target="IoTForThings"/>
@@ -25104,7 +25073,6 @@
 <edge source="bloqboard" target="bc2ventures"/>
 <edge source="bloqboard" target="Balance_io"/>
 <edge source="bloqboard" target="DharmaProtocol"/>
-<edge source="bloqboard" target="bloqboard"/>
 <edge source="bloqboard" target="SamEllenrieder"/>
 <edge source="bloqboard" target="xelionio"/>
 <edge source="bloqboard" target="MikeAinOz"/>
@@ -25129,7 +25097,6 @@
 <edge source="chrean" target="TheHackersNews"/>
 <edge source="0xAlexandros" target="TheHackersNews"/>
 <edge source="frontporchforum" target="CitizensFNDN"/>
-<edge source="goinvo" target="goinvo"/>
 <edge source="goinvo" target="Dggonzalez2015"/>
 <edge source="goinvo" target="sundarnrao"/>
 <edge source="goinvo" target="CC_CURATOR"/>
@@ -25240,7 +25207,6 @@
 <edge source="t0pazg3m" target="TheHackersNews"/>
 <edge source="dontusethiscode" target="sciencedryad"/>
 <edge source="dontusethiscode" target="ianozsvald"/>
-<edge source="dontusethiscode" target="dontusethiscode"/>
 <edge source="dontusethiscode" target="cheukting_ho"/>
 <edge source="dontusethiscode" target="kjjaeger"/>
 <edge source="dontusethiscode" target="JMendesDeJesus"/>
@@ -25262,7 +25228,6 @@
 <edge source="akirasan" target="BelalaC"/>
 <edge source="akirasan" target="InMoov"/>
 <edge source="CitizensFNDN" target="Mlsif"/>
-<edge source="CitizensFNDN" target="CitizensFNDN"/>
 <edge source="CitizensFNDN" target="DecideMadrid"/>
 <edge source="mjtraves" target="sonatype"/>
 <edge source="macteo" target="ricburton"/>
@@ -25489,14 +25454,12 @@
 <edge source="evan_van_ness" target="NomicLabs"/>
 <edge source="AricToler" target="wsscherk"/>
 <edge source="AricToler" target="Thomas_Binder"/>
-<edge source="AricToler" target="AricToler"/>
 <edge source="ISHIR" target="LarsHvam"/>
 <edge source="ISHIR" target="github"/>
 <edge source="Olimex" target="mad_archer_"/>
 <edge source="Olimex" target="micko_mame"/>
 <edge source="OneRelief" target="AKaminara"/>
 <edge source="OneRelief" target="NeedsList"/>
-<edge source="OneRelief" target="OneRelief"/>
 <edge source="OneRelief" target="hanen105"/>
 <edge source="Tiana_Athriel" target="glouppe"/>
 <edge source="rayan_1912" target="NativeScript"/>
@@ -25534,7 +25497,6 @@
 <edge source="darjelingsilva" target="CuentaBaez"/>
 <edge source="alcidesromeu" target="TheHackersNews"/>
 <edge source="RedHat" target="sdtimes"/>
-<edge source="RedHat" target="RedHat"/>
 <edge source="WalletConnect" target="ricburton"/>
 <edge source="wordpressdotcom" target="UnboundedAbove"/>
 <edge source="wordpressdotcom" target="markjotter"/>
@@ -25577,7 +25539,6 @@
 <edge source="BlrFood" target="BLRAviation"/>
 <edge source="msrconf" target="jgbarah"/>
 <edge source="msrconf" target="ChristophLaaber"/>
-<edge source="msrconf" target="msrconf"/>
 <edge source="msrconf" target="azaidman"/>
 <edge source="msrconf" target="fabiopalomba3"/>
 <edge source="msrconf" target="serg_delft"/>
@@ -25636,7 +25597,6 @@
 <edge source="Sjig" target="openeyes_oef"/>
 <edge source="ArkangelScrap" target="gp_pulipaka"/>
 <edge source="ArkangelScrap" target="TechRepublic"/>
-<edge source="Vindyne8" target="Vindyne8"/>
 <edge source="Vindyne8" target="CryptoDrim"/>
 <edge source="Claumi8675" target="iotatokennews"/>
 <edge source="DevHunterYZ" target="glouppe"/>
@@ -25676,7 +25636,6 @@
 <edge source="ZinanZ1" target="iotatokennews"/>
 <edge source="garyshort" target="glouppe"/>
 <edge source="OAforClimate" target="pcmasuzzo"/>
-<edge source="OAforClimate" target="OAforClimate"/>
 <edge source="OAforClimate" target="OpenSci_MOOC"/>
 <edge source="OAforClimate" target="math_theor"/>
 <edge source="OAforClimate" target="rahmat62251"/>
@@ -25785,7 +25744,6 @@
 <edge source="PyLadiesRemote" target="skfroi"/>
 <edge source="marvelapp" target="MaximeDeGreve"/>
 <edge source="marvelapp" target="EleanorHaproff"/>
-<edge source="marvelapp" target="marvelapp"/>
 <edge source="matalaz" target="wimremes"/>
 <edge source="matalaz" target="eren_niazi"/>
 <edge source="cyril_verdier" target="jlondiche"/>
@@ -25992,7 +25950,6 @@
 <edge source="Ravencoin" target="Coalission"/>
 <edge source="Ravencoin" target="mutexcrypto"/>
 <edge source="Ravencoin" target="coincrunchio"/>
-<edge source="Ravencoin" target="Ravencoin"/>
 <edge source="Ravencoin" target="litux"/>
 <edge source="Ravencoin" target="Angel_Roundup"/>
 <edge source="Ravencoin" target="majning"/>
@@ -26046,7 +26003,6 @@
 <edge source="FOSS4G_Oceania" target="mapserving"/>
 <edge source="FOSS4G_Oceania" target="picaosgeo"/>
 <edge source="FOSS4G_Oceania" target="battistella_l"/>
-<edge source="FOSS4G_Oceania" target="FOSS4G_Oceania"/>
 <edge source="FOSS4G_Oceania" target="ainsofs"/>
 <edge source="BrutusUnix" target="JobSnijders"/>
 <edge source="ACr_Ademe" target="bbilloud"/>
@@ -26056,7 +26012,6 @@
 <edge source="BBCRD" target="What2DoNext"/>
 <edge source="BBCRD" target="eren_niazi"/>
 <edge source="BBCRD" target="mattspendlove"/>
-<edge source="BBCRD" target="BBCRD"/>
 <edge source="csllcrypto" target="ricburton"/>
 <edge source="csllcrypto" target="Balance_io"/>
 <edge source="csllcrypto" target="DharmaProtocol"/>
@@ -26092,7 +26047,6 @@
 <edge source="ianozsvald" target="cheukting_ho"/>
 <edge source="ianozsvald" target="kjjaeger"/>
 <edge source="ianozsvald" target="JMendesDeJesus"/>
-<edge source="ianozsvald" target="ianozsvald"/>
 <edge source="xafarr" target="lagergren"/>
 <edge source="mischapeters" target="reykfloeter"/>
 <edge source="mischapeters" target="JobSnijders"/>
@@ -26101,7 +26055,6 @@
 <edge source="MarionD_" target="INQ"/>
 <edge source="classygustav" target="homakov"/>
 <edge source="classygustav" target="nicksdjohnson"/>
-<edge source="classygustav" target="classygustav"/>
 <edge source="MarkVillacampa" target="LouisDhauwe"/>
 <edge source="BGHeaven" target="MichaelAvenatti"/>
 <edge source="BGHeaven" target="TwoWheelJeep"/>
@@ -26121,7 +26074,6 @@
 <edge source="BGHeaven" target="linkayriccam"/>
 <edge source="Dggonzalez2015" target="mjasay"/>
 <edge source="Dggonzalez2015" target="TheHackersNews"/>
-<edge source="DivineOmega" target="DivineOmega"/>
 <edge source="RickyBonneville" target="MichaelAvenatti"/>
 <edge source="Hydraze" target="TwitterSupport"/>
 <edge source="angelluisdiaz" target="TechRepublic"/>
@@ -26143,7 +26095,6 @@
 <edge source="grarulfr_" target="TheHackersNews"/>
 <edge source="opendevconf" target="eren_niazi"/>
 <edge source="kennacharlotte2" target="TheHackersNews"/>
-<edge source="mariadb" target="mariadb"/>
 <edge source="mariadb" target="alcartins"/>
 <edge source="Mosaic_io" target="KarrenZaide"/>
 <edge source="deneb_alpha" target="jospoortvliet"/>
@@ -26157,7 +26108,6 @@
 <edge source="twitjeb" target="JobSnijders"/>
 <edge source="ivarcouderc" target="OUATCHtv"/>
 <edge source="ivarcouderc" target="teknologikfr"/>
-<edge source="ivarcouderc" target="ivarcouderc"/>
 <edge source="ivarcouderc" target="InMoov"/>
 <edge source="TwoWheelJeep" target="MichaelAvenatti"/>
 <edge source="TheWit0k" target="TheHackersNews"/>
@@ -26202,7 +26152,6 @@
 <edge source="eren_niazi" target="KitPloit"/>
 <edge source="eren_niazi" target="githubuniverse"/>
 <edge source="eren_niazi" target="kai_at_ProSyst"/>
-<edge source="eren_niazi" target="eren_niazi"/>
 <edge source="eren_niazi" target="Techmeme"/>
 <edge source="eren_niazi" target="iotatokennews"/>
 <edge source="Kilrot" target="TheHackersNews"/>
@@ -26253,12 +26202,10 @@
 <edge source="Radicalgrrrrl" target="MichaelAvenatti"/>
 <edge source="Shablam6" target="TwitterSupport"/>
 <edge source="sriramhere" target="mjasay"/>
-<edge source="WindRiver" target="WindRiver"/>
 <edge source="stevelaveno" target="mapserving"/>
 <edge source="stevelaveno" target="picaosgeo"/>
 <edge source="stevelaveno" target="battistella_l"/>
 <edge source="stevelaveno" target="ainsofs"/>
-<edge source="CodingFlux_" target="CodingFlux_"/>
 <edge source="StewMH" target="glouppe"/>
 <edge source="tinyoli" target="glouppe"/>
 <edge source="apache_wicket" target="arichduvet"/>
@@ -26273,7 +26220,6 @@
 <edge source="xen_org" target="pir8aye"/>
 <edge source="OpenSource_Uni" target="1waterproof"/>
 <edge source="OpenSource_Uni" target="DrJADelgado"/>
-<edge source="OpenSource_Uni" target="OpenSource_Uni"/>
 <edge source="OpenSource_Uni" target="lJpZil5Ar99e30X"/>
 <edge source="gonzaloamendez" target="KitPloit"/>
 <edge source="trivikram" target="corsoa"/>
@@ -26284,7 +26230,6 @@
 <edge source="JobSnijders" target="__dotblake"/>
 <edge source="JobSnijders" target="doppelvizsla"/>
 <edge source="JobSnijders" target="dan_nrw"/>
-<edge source="JobSnijders" target="JobSnijders"/>
 <edge source="JobSnijders" target="_st0m_"/>
 <edge source="JobSnijders" target="jameshiggins68"/>
 <edge source="JobSnijders" target="chriscappuccio"/>
@@ -26474,7 +26419,6 @@
 <edge source="rasbt" target="PerthMLGroup"/>
 <edge source="rasbt" target="AmartyaSanyal"/>
 <edge source="rasbt" target="AidanBudd"/>
-<edge source="fossasia" target="fossasia"/>
 <edge source="fossasia" target="eventyay"/>
 <edge source="fossasia" target="FOSSASIATaipei"/>
 <edge source="fossasia" target="fossasiasg"/>
@@ -26496,12 +26440,10 @@
 <edge source="pdp7" target="mad_archer_"/>
 <edge source="pdp7" target="micko_mame"/>
 <edge source="micko_mame" target="mad_archer_"/>
-<edge source="micko_mame" target="micko_mame"/>
 <edge source="micko_mame" target="Obijuan_cube"/>
 <edge source="micko_mame" target="oshpark"/>
 <edge source="micko_mame" target="parkerrm39"/>
 <edge source="micko_mame" target="tonicobi"/>
-<edge source="LarsHvam" target="LarsHvam"/>
 <edge source="LarsHvam" target="renycs08"/>
 <edge source="LarsHvam" target="andreakregar"/>
 <edge source="LarsHvam" target="sethiamani"/>
@@ -26564,7 +26506,6 @@
 <edge source="yudanja_tkd" target="black_duck_sw"/>
 <edge source="Estebansalgadox" target="Medium"/>
 <edge source="bryaux" target="odsc"/>
-<edge source="black_duck_sw" target="black_duck_sw"/>
 <edge source="black_duck_sw" target="CC_CURATOR"/>
 <edge source="sarah_edo" target="Walexanderos"/>
 <edge source="sarah_edo" target="ma_salmon"/>
@@ -26573,7 +26514,6 @@
 <edge source="OpenSci_MOOC" target="rahmat62251"/>
 <edge source="ArleneAndrews_1" target="left_pad"/>
 <edge source="williamxlr" target="odsc"/>
-<edge source="SwiftOnSecurity" target="SwiftOnSecurity"/>
 <edge source="_p0k_" target="defcon"/>
 <edge source="pawu76" target="lagergren"/>
 <edge source="Medium" target="Ganapativs"/>
@@ -26621,7 +26561,6 @@
 <edge source="laurent_nilles" target="BigBangFinger"/>
 <edge source="Leishman" target="sweis"/>
 <edge source="Leishman" target="ChiaNetworkInc"/>
-<edge source="Leishman" target="Leishman"/>
 <edge source="PLOS" target="___krest"/>
 <edge source="PLOS" target="RodrigoNunesCa6"/>
 <edge source="varaprasadp" target="defcon"/>
@@ -26634,7 +26573,6 @@
 <edge source="FOSSASIATaipei" target="ParthS0007"/>
 <edge source="jmwatt3" target="anthonypjshaw"/>
 <edge source="left_pad" target="bitandbang"/>
-<edge source="left_pad" target="left_pad"/>
 <edge source="left_pad" target="gr2m"/>
 <edge source="sciencedryad" target="cheukting_ho"/>
 <edge source="sciencedryad" target="kjjaeger"/>
@@ -26668,7 +26606,6 @@
 <edge source="kierankyle" target="DharmaProtocol"/>
 <edge source="BeMyAppFR" target="CC_CURATOR"/>
 <edge source="PaaSDev" target="merv"/>
-<edge source="PaaSDev" target="PaaSDev"/>
 <edge source="schoumi" target="lhirlimann"/>
 <edge source="rashadkm" target="reykfloeter"/>
 <edge source="NamishSir" target="KitPloit"/>
@@ -26700,7 +26637,6 @@
 <edge source="Balance_io" target="SeekingFootnote"/>
 <edge source="Balance_io" target="BobSummerwill"/>
 <edge source="Balance_io" target="siosism"/>
-<edge source="Balance_io" target="Balance_io"/>
 <edge source="Balance_io" target="sisisijak1"/>
 <edge source="kdnuggets" target="Ronald_vanLoon"/>
 <edge source="kdnuggets" target="BigBangFinger"/>
@@ -26715,7 +26651,6 @@
 <edge source="WscCrypto" target="ricburton"/>
 <edge source="nightlind" target="lagergren"/>
 <edge source="Phil_Dunn1" target="mjasay"/>
-<edge source="Coalission" target="Coalission"/>
 <edge source="Ganapativs" target="toolmantim"/>
 <edge source="fablabbcn" target="raultoran"/>
 <edge source="guw" target="lagergren"/>
@@ -26742,7 +26677,6 @@
 <edge source="rrelyea" target="jlaban"/>
 <edge source="cloudsh" target="WebDirIndex"/>
 <edge source="vectorsketcher" target="awscloud"/>
-<edge source="defcon" target="defcon"/>
 <edge source="defcon" target="Jhaddix"/>
 <edge source="defcon" target="anantshri"/>
 <edge source="defcon" target="NeeluTripathy"/>
@@ -26751,7 +26685,6 @@
 <edge source="defcon" target="antriksh_s"/>
 <edge source="defcon" target="Gater_Byte"/>
 <edge source="defcon" target="g4l4drim"/>
-<edge source="mjasay" target="mjasay"/>
 <edge source="mjasay" target="ConnerForrest"/>
 <edge source="KitPloit" target="hack_videos"/>
 <edge source="KitPloit" target="AlejoPhoenix"/>
@@ -26769,7 +26702,6 @@
 <edge source="odsc" target="mitmul"/>
 <edge source="SamueleBozzoni" target="Ipsoa"/>
 <edge source="SamueleBozzoni" target="GiuseppeGuerin1"/>
-<edge source="SamueleBozzoni" target="SamueleBozzoni"/>
 <edge source="warren_stearman" target="EHackerNews"/>
 <edge source="JavaScriptDaily" target="jigneshsuvariya"/>
 <edge source="JavaScriptDaily" target="osuissa"/>
@@ -26808,7 +26740,6 @@
 <edge source="Pim0uss" target="lhirlimann"/>
 <edge source="_bitcoin" target="NomicLabs"/>
 <edge source="OpenSourceDiva" target="CC_CURATOR"/>
-<edge source="kohails" target="kohails"/>
 <edge source="kohails" target="CC_CURATOR"/>
 <edge source="khalil319" target="iotatokennews"/>
 <edge source="wieser1984" target="iotatokennews"/>
@@ -26823,17 +26754,11 @@
 <edge source="Pyb75" target="lhirlimann"/>
 <edge source="lagergren" target="telexico"/>
 <edge source="lagergren" target="c4n70r"/>
-<edge source="anthonypjshaw" target="anthonypjshaw"/>
 <edge source="sopanx" target="BrideOfLinux"/>
 <edge source="toolmantim" target="rauchg"/>
 <edge source="sjvn" target="BrideOfLinux"/>
 <edge source="CC_CURATOR" target="openeyes_oef"/>
 <edge source="CC_CURATOR" target="geeetech"/>
-<edge source="openeyes_oef" target="openeyes_oef"/>
 <edge source="FRANKVERA_" target="iotatokennews"/>
-<edge source="GiuseppeGuerin1" target="GiuseppeGuerin1"/>
-<edge source="fabiopalomba3" target="fabiopalomba3"/>
 <edge source="meetuphtmlsp" target="w_oliveiras"/>
-<edge source="meetuphtmlsp" target="meetuphtmlsp"/>
-<edge source="w_oliveiras" target="w_oliveiras"/>
 </graph></graphml>
